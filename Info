@@ -1,0 +1,11 @@
+$Nomention
+$onlyIf[$guildID!=;]
+$authorIcon[$serverIcon[$guildID]
+$thumbnail[$servericon[$guildID]
+$author[$serverName[$guildID]
+$description[$addField[ID du serveur;**$guildID**;oui]
+$addField[Server Members;**$membersCount**;oui]
+$addField[Rôle du serveur;**$roleCount**;oui]
+$addField[Channels du serveur;**$ChannelCompte**;oui]
+$addField[Server Owner;**<@$serverOwner> ($username[$serverOwner]#$discriminator[$serverOwner]) **;oui]
+$Coldown[1s;]
